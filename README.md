@@ -18,7 +18,7 @@ To the run the GPP-MB filter with uninformative birth run
 GPP_MB_PF_uninformative_birth.m
 
 
-Files statutils.c and matrixutils.c were written by Mark Morelande, who has given permission to include them in this repository. These files include some statistical and matrix functions implemented in C, used also in the particle filter for multiple target tracking in [[6]](https://ieeexplore.ieee.org/document/6558005).
+Code of the C-files is written in Spanish. Files statutils.c and matrixutils.c were written by Mark Morelande, who has given permission to include them in this repository. These files include some statistical and matrix functions implemented in C, used also in the particle filter for multiple target tracking in [[6]](https://ieeexplore.ieee.org/document/6558005). 
 
 
 [[1] A. F. García-Fernández, "Track-before-detect labeled multi-Bernoulli particle filter with label switching," in IEEE Transactions on Aerospace and Electronic Systems, vol. 52, no. 5, pp. 2123-2138, October 2016, doi: 10.1109/TAES.2016.150343.](https://ieeexplore.ieee.org/document/7812865)
